@@ -14,6 +14,8 @@
 - ⚡ I'm a frontend developer from Egypt.
 
 - 📫 How to reach me **m7md_n3gm@gmail.com**
+  
+- 📫 How to reach me **m7md_n3gm@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/m7mdn3gm?tab=repositories)**.
   
