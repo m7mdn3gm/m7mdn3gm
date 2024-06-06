@@ -14,12 +14,14 @@
 - ⚡ I'm a frontend developer from Egypt.
 
 - 🎓 I'm a CS Student **@FCI - Menoufia University**.
+  
 
+ - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+  
+   
+  
 - 📫 How to reach me **m7md_n3gm@gmail.com**
   
--   
-  
-- 📫 How to reach me **m7md_n3gm@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/m7mdn3gm?tab=repositories)**.
   
