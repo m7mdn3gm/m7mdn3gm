@@ -11,20 +11,13 @@
 
  ## About Me:
 
-- ⚡ I'm a frontend developer from Egypt.
-
+- ⚡ I'm a Frontend Developer From Egypt.
 - 🎓 I'm a CS Student **@FCI - Menoufia University**.
-  
-
- - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
-  
-   
-  
+- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🧑‍🎓 I’m currently learning `FullStack Developer`.
 - 📫 How to reach me **m7md_n3gm@gmail.com**
-  
-
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/m7mdn3gm?tab=repositories)**.
-  
+
 ---
 
 ## Languages and Tools:
