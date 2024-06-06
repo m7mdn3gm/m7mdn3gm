@@ -43,7 +43,7 @@
 
 ---
 
-    <p><a href="https://github.com/m7mdn3gm"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednegm&show_icons=true&locale=en&layout=compact" alt="mohamednegm" /></a></p>
-    <p><a href="https://github.com/m7mdn3gm">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednegm&show_icons=true&locale=en" alt="mohamednegm" /></a></p>
-    <p><a href="https://github.com/m7mdn3gm"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednegm&" alt="mohamednegm" /></a></p>
+<p><a href="https://github.com/m7mdn3gm"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednegm&show_icons=true&locale=en&layout=compact" alt="mohamednegm" /></a></p>
+<p><a href="https://github.com/m7mdn3gm">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednegm&show_icons=true&locale=en" alt="mohamednegm" /></a></p>
+<p><a href="https://github.com/m7mdn3gm"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednegm&" alt="mohamednegm" /></a></p>
 
